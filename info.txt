@@ -1,0 +1,2 @@
+12-7-18  completed day-1
+12-9-18 completed day-2  created github repo and surge static deploy https://pink-structure.surge.sh

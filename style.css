@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  /* background-image: url('./images/beautiful-cold-dawn-547115.jpg'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.examples {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+/* .examples button {
+  max-width: 50%;
+} */
+
+a {
+  /* text-decoration: none; */
+  margin: 10px 0;
+  font-size: 25px;
+}
