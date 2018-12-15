@@ -1,11 +1,3 @@
-body {
-  font-family: 'Bubblegum Sans', cursive !important;
-}
-/* 
-.home-link {
-  text-align: center !important;
-} */
-
 .register-wrapper {
   background-image: -webkit-linear-gradient(135deg, #0eeff0 30%, #088f90 90%);
   background-image: linear-gradient(135deg, #0eeff0 30%, #088f90 90%);
