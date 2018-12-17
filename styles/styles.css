@@ -1,6 +1,7 @@
 h1,
 ul {
   text-align: center;
+  list-style-type: none;
 }
 
 li {
